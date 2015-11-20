@@ -1,10 +1,7 @@
 var chai = require('chai');
 var expect = chai.expect;
 var parser = require('parser');
-
-
 var Brush = require('./brush');
-
 var sample = require('fs').readFileSync(`${__dirname}/sample.txt`, 'utf8');
 
 describe('brush-java', function() {
