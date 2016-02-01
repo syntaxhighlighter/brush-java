@@ -2,11 +2,11 @@
 
 Java brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-java.svg)](https://travis-ci.org/alexgorbatchev/brush-java)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-java.svg)](https://travis-ci.org/syntaxhighlighter/brush-java)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-java
+    npm install @alexgorbatchev/brush-java
 
 ## Testing
 
