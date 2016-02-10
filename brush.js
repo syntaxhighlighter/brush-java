@@ -32,7 +32,7 @@ function Brush() {
       css: 'string'
     },
     {
-      regex: /\b([\d]+(\.[\d]+)?|0x[a-f0-9]+)\b/gi,
+      regex: /\b([\d]+(\.[\d]+)?f?|[\d]+l?|0x[a-f0-9]+)\b/gi,
       css: 'value'
     },
     {
